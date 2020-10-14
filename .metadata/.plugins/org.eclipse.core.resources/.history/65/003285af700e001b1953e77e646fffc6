@@ -1,0 +1,25 @@
+package com.unip.calculadora;
+
+public class CalculadoraModel {
+	private double resultado;
+
+	public void soma(double numero1, double numero2){
+		resultado = numero1 + numero2;	
+	}
+
+	public void subtrai(double numero1, double numero2){
+		resultado = numero1 - numero2;	
+	}
+	
+	public void multiplica(double numero1, double numero2){	
+		resultado = numero1 * numero2;	
+	}
+	
+	public void divide(double numero1, double numero2){	
+		resultado = numero1 / numero2;	
+	}
+	
+	public int getResultado(){
+		return resultado;		
+	}	
+}

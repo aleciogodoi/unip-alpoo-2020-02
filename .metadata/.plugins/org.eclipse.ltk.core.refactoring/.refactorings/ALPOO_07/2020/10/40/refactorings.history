@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ALPOO.db&apos; to &apos;bd&apos;&#x0D;&#x0A;- Original project: &apos;ALPOO_07&apos;&#x0D;&#x0A;- Destination element: &apos;bd&apos;&#x0D;&#x0A;- Original element: &apos;ALPOO.db&apos;" description="Copy file" element1="bd/ALPOO.db" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1601512862043" target="/ALPOO_07_Exercicio/bd" units="0" version="1.0"/>
+</session>
