@@ -20,7 +20,7 @@ public class PainelExibeClientes extends JPanel {
 				+ "Telefone, "
 				+ "Endereco as 'Endereço' "
 				+ "From "
-				+ "Usuario ORDER BY Nome";
+				+ "Usuario ORDER BY Nome";	
 		//Cria um objeto modelo de dados.
 		modelo = new ModeloDeTabela(consulta);
 		//E utiliza este modelo para criar um JTable.
